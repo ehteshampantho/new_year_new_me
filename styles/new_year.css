@@ -4,7 +4,7 @@
 /* Frame 1 */
 /* header content */
 .header-section{
-    background-image: url("../images/banner/banner1.png");
+    background-image: url("./images/banner/banner1.png");
     background-repeat: no-repeat;
     background-position: center;
     text-align: right;

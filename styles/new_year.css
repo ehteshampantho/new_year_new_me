@@ -4,7 +4,7 @@
 /* Frame 1 */
 /* header content */
 .header-section{
-    background-image: url("./images/banner/banner1.png");
+    background-image: url("../images/banner/banner1.png");
     background-repeat: no-repeat;
     background-position: center;
     text-align: right;
@@ -36,7 +36,7 @@
 .fail-primary{
     display: flex;
     justify-content: space-around;
-
+    gap: 10px;
 }
 .fail-img{
     margin-top: 131px;
@@ -90,7 +90,7 @@
 /* Image Gradient */
 .blend-section{
     margin-top: 130px;
-    background-image: url("./images/watch.png"), url("./images/gradient3.png");
+    background-image: url("../images/watch.png"), url("../images/gradient3.png");
     border: none;
     border-radius: 10px;
     background-repeat: no-repeat;
